@@ -9,7 +9,7 @@ With a deep understanding of the fintech industry, I am committed to staying ahe
 Whether it is leading my team to success, finding innovative solutions to complex problems, or overcoming challenges, I am always up for the task. I am confident in my ability to drive results and bring my unique skills and experiences to any project or opportunity.
 
 ## 📟 I have worked with
-- Terrform
+- Terraform
 - Kubernetes
 - Docker
 - Postgres
