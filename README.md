@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a hands-on leader, co-founder, and CTO of Ruuky. My passion for fintech and drive for success has allowed me to build a successful financial institution from the ground up. With a strong background in technology, I have a unique perspective on how to effectively manage and grow a business.
+I am a hands-on leader, co-founder, and CTO. My passion for fintech and drive for success has allowed me to build a successful financial institution from the ground up. With a strong background in technology, I have a unique perspective on how to effectively manage and grow a business.
 
 As a seasoned leader, I excel in building and leading teams from scratch. My ability to motivate and inspire others has resulted in a highly productive and engaged workforce. My drive to tackle challenging projects and find innovative solutions has been the cornerstone of my success.
 
